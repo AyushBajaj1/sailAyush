@@ -1,0 +1,8 @@
+# Site settings
+title: Blog Title
+author: 
+  name: Ayush Bajaj
+  email: your-email@domain.com
+description: "Great site about Jekyll on GH-Pages."
+# Build settings
+remote_theme: jekyll/minima
